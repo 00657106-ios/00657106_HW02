@@ -52,7 +52,7 @@ struct Abc: View {
                 
                 
                 
-            }.fill(Color(red: 0, green: 0.4, blue:  1))
+            }.fill(Color(red: 0, green: 1, blue:  0))
             //link ball line
             Path { (path) in
                 path.move(to: CGPoint(x: 115, y: 72))
