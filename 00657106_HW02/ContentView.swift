@@ -18,7 +18,7 @@ struct ContentView: View {
             
             
             Abc().offset(x: 60, y: 400)
-//
+
 //
         
        }
