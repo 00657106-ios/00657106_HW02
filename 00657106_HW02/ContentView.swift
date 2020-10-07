@@ -1,10 +1,4 @@
-//
-//  ContentView.swift
-//  00757048_demo
-//
-//  Created by User04 on 2020/9/23.
-//
-
+// iphone 11 pro
 import SwiftUI
 
 struct ContentView: View {
